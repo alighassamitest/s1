@@ -8,6 +8,7 @@
 <link href="css/style.css" rel="stylesheet" />
 </head>
 <body>
+
 <script src="js/script.js"></script>
 </body>
 </html>
