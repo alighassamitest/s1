@@ -11,11 +11,8 @@
 <?php
  echo "salam";
  echo "hello 2";
+ echo "my File";
  echo "yes";
-?>
-<?php
-echo "my File";
-
 ?>
 <script src="js/script.js"></script>
 </body>
