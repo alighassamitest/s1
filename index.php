@@ -7,7 +7,7 @@
 <title>site</title>
 <link href="css/style.css" rel="stylesheet" />
 </head>
-<body style="background:red">
+<body style="background:blue">
 <?php
  echo "salam";
  echo "hello 2";
