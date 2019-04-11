@@ -12,6 +12,8 @@
  echo "hello";
  
 ?>
+<p>Mohammad-User</p>
+<p>This is very Good</p>
 <script src="js/script.js"></script>
 </body>
 </html>
