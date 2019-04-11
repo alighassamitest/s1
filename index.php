@@ -13,11 +13,6 @@
  echo "hello 2";
  echo "yes";
 ?>
-
-<p>Ali-User</p>
-
-<p>Mohammad-User</p>
-<p>This is very Good</p>
 <?php
 echo "my File";
 
