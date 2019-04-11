@@ -7,12 +7,17 @@
 <title>site</title>
 <link href="css/style.css" rel="stylesheet" />
 </head>
-<body>
+<body style="background:red">
 <?php
  echo "hello";
  echo "yes";
 ?>
+
 <p>Ali-User</p>
+
+<p>Mohammad-User</p>
+<p>This is very Good</p>
+
 <script src="js/script.js"></script>
 </body>
 </html>
