@@ -7,10 +7,9 @@
 <title>site</title>
 <link href="css/style.css" rel="stylesheet" />
 </head>
-<body>
+<body style="background:red">
 <?php
  echo "hello";
- 
 ?>
 <p>Mohammad-User</p>
 <p>This is very Good</p>
