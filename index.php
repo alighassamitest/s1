@@ -9,7 +9,8 @@
 </head>
 <body style="background:red">
 <?php
- echo "hello";
+ echo "salam";
+ echo "hello 2";
  echo "yes";
 ?>
 
@@ -17,7 +18,10 @@
 
 <p>Mohammad-User</p>
 <p>This is very Good</p>
+<?php
+echo "my File";
 
+?>
 <script src="js/script.js"></script>
 </body>
 </html>
