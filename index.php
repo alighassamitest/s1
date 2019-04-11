@@ -10,6 +10,7 @@
 <body>
 <?php
  echo "hello";
+ echo "yes";
 ?>
 <p>Ali-User</p>
 <script src="js/script.js"></script>
